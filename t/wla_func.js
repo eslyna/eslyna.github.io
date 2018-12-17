@@ -1,9 +1,3 @@
-var items = [
-    [60171234567, 100],
-    [60181234567, 20],
-    [60191234567, 10]
-];
-
 function wanumber(){
     var i, j;
     var distitems = new Array();
