@@ -16,7 +16,7 @@ var items = [
     
     
     
-     [6011 6969 4041, 33]  // enq cnk 1  Main
+     [6011 6969 4041, 1]  // enq cnk 1  Main
     
     
 ];
