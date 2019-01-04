@@ -19,17 +19,7 @@ var items = [
 
 /*
 
-Thease are the active phone numbers. 
-Please remove the inactive numbers from here.
-
-Shift 1
-Starts 11.30pm Ends 7.30pm
-
-Shift 2
-Starts 7.30am Ends 3.30pm
- 
-Shift 3
-Starts 3.30am Ends 11.30pm
+https://wsap.gq/6xse2  - Do Test Everytime when CSS request for Start Prospect
 
 */           
     
