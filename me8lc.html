@@ -52,7 +52,8 @@ src="https://www.facebook.com/tr?id=308132900034773&ev=PageView
 <script type="text/javascript">
     document.getElementById('ws_link').innerHTML = '<a rel="nofollow" target="_blank" href="https://wa.me/'+wanumber()+'?text=Saya%20nak%20tahu%20lebih%20(Ldp:002)"><img src="wa.png" width="300" height="300"></a>';
     $(function(){
-       $('#ws_link').trigger('click');
+       //$('#ws_link').trigger('click');
+       window.location.href = $('#ws_link').attr('href');
     });
 
 </script>
