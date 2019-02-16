@@ -15,7 +15,7 @@ var items = [
 //    [601164173867, 33],     // enq cnk 5  Clara
 //    [601164040533, 99],     // enq cnk 4  Lily
  
-//    [601160613989, 99],      // enq cnk 6  Hazel
+//    [60189878148, 99],      // enq cnk 6  Hazel
 //    [60182367352, 33],      // enq cnk 9  Sharon
  
 //    [601164143141, 49],     // enq cnk 7  Dhia
