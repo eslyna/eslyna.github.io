@@ -4,7 +4,7 @@ var items = [
     [601164020305, 9],      // enq cnk 1  HPW main
     [601161900058, 9],      // enq cnk 2  CNK main
  
-    [601151601951, 9],      // enq hpw 3  Erina
+    [60196044191, 9],      // enq hpw 3  Erina
     [60196043903, 9],      // enq hpw 3  Erina
  
     [601169600508, 8],      // enq hpw 4  Sandy
